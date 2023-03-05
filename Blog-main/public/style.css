@@ -1,19 +1,23 @@
 
 h1, h2 {
-   color: #1100ff;
+   color: #eb42c6;
 }
 
 p {
-   color: #ff000d;
+   color: #fd0411;
 }
 
 h2 {
-   color: #d86f0d
+   color: #25d80db9
 }
 
 body {
   background-color: #cbe74f;
   background-image:url(./R.jfif) ;
+}
+
+.form-label{
+  color: #ff0000;
 }
 .name {
   font-size: 23px;
