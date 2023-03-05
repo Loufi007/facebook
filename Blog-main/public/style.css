@@ -1,0 +1,62 @@
+
+h1, h2 {
+   color: #1100ff;
+}
+
+p {
+   color: #ff000d;
+}
+
+h2 {
+   color: #d86f0d
+}
+
+body {
+  background-color: #cbe74f;
+}
+.name {
+  font-size: 23px;
+}
+
+#submitBtn{
+    display: inline-block;
+    padding: 10px 25px;
+    margin-bottom: 30px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4caf50;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 5px #999;
+    transition-duration: 0.1s;
+
+
+}
+
+#submitBtn:hover{
+    background-color: red;
+    color: white;
+}
+
+button:active{
+    background-color: #3e8e41;
+    box-shadow: 0 0px #666;
+    transform: translateY(4px);
+}
+
+.time {
+  color: #2600ff;
+  font-size: 14px;
+}
+a {
+  color: #00ff15;
+  font-size: 23px;
+}
+footer{
+  margin-left: 400px;
+  color: #121404;
+}
